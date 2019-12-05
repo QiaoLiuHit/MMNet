@@ -1,6 +1,6 @@
 ## Multi-Task Driven Feature Models for Thermal Infrared Tracking (AAAI2020)
 ## Abstract
-We propose a feature model comprising TIR-specific discriminative features and fine-grained correlation features for TIR object representation. Then, we develop a multi-task matching framework (MMNet) to integrate these two features for robust TIR tracking. In addition, we build a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. More details please see our [paper](https://www.researchgate.net/publication/337533102_Multi-Task_Driven_Feature_Models_for_Thermal_Infrared_Tracking).
+We propose a feature model comprising TIR-specific discriminative features and fine-grained correlation features for TIR object representation. Then, we develop a multi-task matching framework (MMNet) to integrate these two features for robust TIR tracking. In addition, we build a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. More details please see our [paper](https://www.researchgate.net/publication/337533102_Multi-Task_Driven_Feature_Models_for_Thermal_Infrared_Tracking), [supplementary material](https://www.researchgate.net/publication/337757412_1836Supplementary-materialpdf).
 ![Alt text](./MMNet.jpg)
 ## Download
 *  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg).
