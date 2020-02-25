@@ -3,9 +3,9 @@
 We propose a feature model comprising TIR-specific discriminative features and fine-grained correlation features for TIR object representation. Then, we develop a multi-task matching framework (MMNet) to integrate these two features for robust TIR tracking. In addition, we build a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. More details please see our [paper](https://www.researchgate.net/publication/337533102_Multi-Task_Driven_Feature_Models_for_Thermal_Infrared_Tracking), [supplementary material](https://www.researchgate.net/publication/337757412_1836Supplementary-materialpdf).
 ![Alt text](./MMNet.jpg)
 ## Download
-*  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg) or [MEGA drive](https://mega.nz/#F!BtAVyAwb).
-*  You can download several our trained models from [Baidu Pan](https://pan.baidu.com/s/1czaAeie5iD8hvXjJV401Pw) or [MEGA drive](https://mega.nz/#!UxAR2KIa).
-*  You can download the tracking raw results of three benchmarks from [Baidu Pan](https://pan.baidu.com/s/1knmuUTv72cLwhy40eUOMlA) or [MEGA drive](https://mega.nz/#!o5BXzQ5Y).
+*  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg) or [MEGA drive](https://mega.nz/#F!BtAVyAwb!hRsl9pCKp5JmJur_UHpEwA).
+*  You can download several our trained models from [Baidu Pan](https://pan.baidu.com/s/1czaAeie5iD8hvXjJV401Pw) or [MEGA drive](https://mega.nz/#!UxAR2KIa!3DzmnShyGXwV5OkAz2mv1jRYbJZMEtanQRerHV8SGFk).
+*  You can download the tracking raw results of three benchmarks from [Baidu Pan](https://pan.baidu.com/s/1knmuUTv72cLwhy40eUOMlA) or [MEGA drive](https://mega.nz/#!o5BXzQ5Y!z0hl0N91AFKDLgCbCJ-MWwlVGyXMdvOY97dkyj-aRlQ).
 ## Usage
 ### Tracking
 1. Clone the code and unzip it in your computer.
