@@ -1,11 +1,11 @@
 ## Multi-Task Driven Feature Models for Thermal Infrared Tracking (AAAI2020)
 ## Abstract
-We propose a feature model comprising TIR-specific discriminative features and fine-grained correlation features for TIR object representation. Then, we develop a multi-task matching framework (MMNet) to integrate these two features for robust TIR tracking. In addition, we build a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. More details please see our [paper](https://www.researchgate.net/publication/337533102_Multi-Task_Driven_Feature_Models_for_Thermal_Infrared_Tracking).
+We propose a feature model comprising TIR-specific discriminative features and fine-grained correlation features for TIR object representation. Then, we develop a multi-task matching framework (MMNet) to integrate these two features for robust TIR tracking. In addition, we build a large-scale TIR training dataset to train the network for adapting the model to the TIR domain. More details please see our [paper](https://www.researchgate.net/publication/337533102_Multi-Task_Driven_Feature_Models_for_Thermal_Infrared_Tracking), [supplementary material](https://www.researchgate.net/publication/337757412_1836Supplementary-materialpdf).
 ![Alt text](./MMNet.jpg)
 ## Download
-*  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg).
-*  You can download several our trained models from [Baidu Pan](https://pan.baidu.com/s/1czaAeie5iD8hvXjJV401Pw).
-*  You can download the tracking raw results of three benchmarks from [Baidu Pan](https://pan.baidu.com/s/1knmuUTv72cLwhy40eUOMlA).
+*  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg) . We have reconstructed this dataset to a new TIR object tracking benchmark, [LSOTB-TIR](https://github.com/QiaoLiuHit/LSOTB-TIR). 
+*  You can download several our trained models from [Baidu Pan](https://pan.baidu.com/s/1czaAeie5iD8hvXjJV401Pw) or [MEGA drive](https://mega.nz/#!UxAR2KIa!3DzmnShyGXwV5OkAz2mv1jRYbJZMEtanQRerHV8SGFk).
+*  You can download the tracking raw results of three benchmarks from [Baidu Pan](https://pan.baidu.com/s/1knmuUTv72cLwhy40eUOMlA) or [MEGA drive](https://mega.nz/#!o5BXzQ5Y!z0hl0N91AFKDLgCbCJ-MWwlVGyXMdvOY97dkyj-aRlQ).
 ## Usage
 ### Tracking
 1. Clone the code and unzip it in your computer.
@@ -25,9 +25,11 @@ If you use the code or dataset, please consider citing our paper.
   title={Multi-Task Driven Feature Models for Thermal Infrared Tracking},
   author={Liu, Qiao and Li, Xin and He, Zhenyu and Fan, Nana and Yuan, Di and Liu, Wei and Liang, YongSheng},
   booktitle={Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  pages={11604-11611},
   year={2020}
 }
 ```
 ## Contact
 Feedbacks and comments are welcome! 
 Feel free to contact us via liuqiao.hit@gmail.com or liuqiao@stu.hit.edu.cn
+
