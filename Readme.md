@@ -32,7 +32,3 @@ If you use the code or dataset, please consider citing our paper.
 ## Contact
 Feedbacks and comments are welcome! 
 Feel free to contact us via liuqiao.hit@gmail.com or liuqiao@stu.hit.edu.cn
-<<<<<<< HEAD
-
-=======
->>>>>>> 2cfca531335dd28e6750e51f7e40b53b37924b9b
