@@ -6,6 +6,7 @@ We propose a feature model comprising TIR-specific discriminative features and f
 *  You can download the proposed TIR training dataset from [Baidu Pan](https://pan.baidu.com/s/1uLQ8pHsAbBq8hRFM2aOhYg). [News 2020-08] We have extended this dataset to a new TIR object tracking benchmark, [LSOTB-TIR](https://github.com/QiaoLiuHit/LSOTB-TIR). 
 *  You can download several our trained models from [Baidu Pan](https://pan.baidu.com/s/1czaAeie5iD8hvXjJV401Pw) or [MEGA drive](https://mega.nz/#!UxAR2KIa!3DzmnShyGXwV5OkAz2mv1jRYbJZMEtanQRerHV8SGFk).
 *  You can download the tracking raw results of three benchmarks from [Baidu Pan](https://pan.baidu.com/s/1knmuUTv72cLwhy40eUOMlA) or [MEGA drive](https://mega.nz/#!o5BXzQ5Y!z0hl0N91AFKDLgCbCJ-MWwlVGyXMdvOY97dkyj-aRlQ).
+*  We provide a raw result of MMNet on the LSOTB-TIR Benchmark in [here](https://pan.baidu.com/s/1D88Rg-NspfzHRg4nE8C7Lw?pwd=o9ll).
 ## Usage
 ### Tracking
 1. Clone the code and unzip it in your computer.
