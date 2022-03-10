@@ -29,6 +29,14 @@ If you use the code or dataset, please consider citing our paper.
   pages={11604-11611},
   year={2020}
 }
+or
+The extened journal version
+@article{MMNet,
+  title={Learning Dual-Level Deep Representation for Thermal Infrared Tracking},
+  author={Liu, Qiao and Yuan, Di and Fan, Nana and Gao, Peng and Li, Xin and He, Zhenyu},
+  journal={IEEE Transactions on Multimedia},
+  year={2022}
+}
 ```
 ## Contact
 Feedbacks and comments are welcome! 
